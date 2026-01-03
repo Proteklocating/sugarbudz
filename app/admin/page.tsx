@@ -1,0 +1,1 @@
+// Dummy file for app/admin/page.tsx

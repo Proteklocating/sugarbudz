@@ -1,0 +1,1 @@
+// Dummy file for app/checkout/page.tsx

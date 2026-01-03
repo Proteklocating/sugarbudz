@@ -1,12 +1,8 @@
 {
-  "name": "my-project",
+  "name": "website",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {},
-  "devDependencies": {}
+    "build": "echo \"No build step\""
+  }
 }

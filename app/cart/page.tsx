@@ -1,0 +1,1 @@
+// Dummy file for app/cart/page.tsx
